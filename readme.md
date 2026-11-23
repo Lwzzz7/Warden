@@ -9,8 +9,7 @@
 
 ## Installation
 
-Run the examples from the repository root. The reference environment uses Python 3.8, PyTorch 1.10.1, and torchaudio 0.10.1. The commands below select the CPU build. For GPU training, install the matching CUDA build in the same environment. [PyTorch installation options](https://pytorch.org/get-started/previous-versions/#v1101)
-
+Creating the new environment for Warden and installing the requirements.
 ```bash
 conda create -n warden python=3.8
 conda activate warden
